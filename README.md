@@ -1,2 +1,2 @@
-# Intel_Image_Classification
+# Intel Image Classification
 Image Classification on Intel Dataset
