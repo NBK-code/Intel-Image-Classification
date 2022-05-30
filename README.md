@@ -22,3 +22,5 @@ Three transfer learning models were built using
 VGG16 provided a better accuracy of 88% on the test set (containing 3000 images) with just a few epochs of training. The confusion matrix for the VGG16 model on the test set is given below.
 
 ![alt text](https://github.com/NBK-code/Intel-Image-Classification/blob/main/Illustrative_Images/VGG16_confusion_matrix.png?raw=true)
+
+The model seems to underpeform especially in distinguishing mountains and glaciers. This seems reasonable by looking at some of the mountain and glacier images displayed above.
