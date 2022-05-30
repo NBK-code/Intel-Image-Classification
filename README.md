@@ -1,4 +1,6 @@
 # Intel Image Classification
+
+##Dataset
 Image Images Dataset available from [Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) contains over 25,000 images of size 150x150 distributed under 6 categories. The categories are as follows:
 
 1. Buildings
@@ -13,6 +15,7 @@ Some of the images in the dataset are displayed below.
 ![alt text](https://github.com/NBK-code/Intel-Image-Classification/blob/main/Illustrative_Images/Intel_Images.png?raw=true)
 
 
+##Classification Models
 Three transfer learning models were built using 
 
 1. VGG16
