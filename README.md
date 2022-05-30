@@ -8,4 +8,4 @@ Image Images Dataset available from [Kaggle](https://www.kaggle.com/datasets/pun
 5. Sea
 6. Street
 
-Three transfer learning models were built using VGG16, Inception v3 and ResNet50. VGG16 provided better accuracy of 89% on the test set with very few epochs of training. 
+Three transfer learning models were built using VGG16, Inception v3 and ResNet50. VGG16 provided better accuracy of 88% on the test set with very few epochs of training. 
