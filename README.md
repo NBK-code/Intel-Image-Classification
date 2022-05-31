@@ -1,7 +1,7 @@
 # Intel Image Classification
 
 ## Dataset
-Image Images Dataset available from [Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) contains over 25,000 images of size 150x150 distributed under 6 categories. The categories are as follows:
+Intel Images Dataset available from [Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) contains over 25,000 images of size 150x150 distributed under 6 categories. The categories are as follows:
 
 1. Buildings
 2. Forest
